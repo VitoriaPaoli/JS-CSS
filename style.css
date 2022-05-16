@@ -1,0 +1,17 @@
+.classe1{
+    width: 500px;
+    height: 500px;
+    border: 10px dashed blue;
+}
+
+
+.classe2{
+    background-color: antiquewhite;
+    color: purple;
+}
+
+.classe3{
+    font-size: 70px;
+    text-align: center;
+    text-transform: uppercase;
+}
